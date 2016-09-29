@@ -7,9 +7,13 @@ Probeer volgende vragen te beantwoorden:
 i.v.m. MSTest:
 
 - Welke Assert-methods worden naast `Assert.AreEqual` nog allemaal gebruikt?
+> Assert.AreNotEqual, Assert.AreNotSame, Fail, IsFalse, ...
 - Waarom heeft `TestDirectories` een `Initialize`- en `CleanUp`-method?
+> In de 'Initialize'-method worden de variabelen gedeclareerd en in de 'CleanUp`-method wordt nagekeken of bepaalde variabelen een correcte inhoud bevatten.
 - Zijn de attributen `[TestMethod]`, `[TestClass]`, ... noodzakelijk? (Test uit!)
+> Ja denk ik, ze verwijzen naar een namespace wie gebruikt wordt.
 - Wat is de shortcut om alle tests uit te voeren in VS?
+> CTRL + R & CTRL + A
 
 i.v.m. Files en Directories:
 
