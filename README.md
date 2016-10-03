@@ -39,12 +39,22 @@ i.v.m. Files en Directories:
 - Wanneer is het nuttig om de return-waarde van `Directory.CreateDirectory(...)` op te vangen?
 
 > Als je tests wilt uitvoeren met de directory. (bv.: dirName.Delete/.Refresh/...)
+> Of later sub directories wilt toevoegen
 
 i.v.m. duidelijkheid/geschiedenis van de code:
 
 - Lukken de testen in de commit 3ffe2c86? Waarom (niet)?
+
+>
+
 - Wat lost commit d0320b6a op?
+
+>
+
 - Wat is het probleem met de files in commit 9d184949?
+
+>
+
 - Wat doet commit 9b3e4065? Maakt dit de code makkelijker leesbaar? Makkelijker uitbreidbaar?
 
-
+>
