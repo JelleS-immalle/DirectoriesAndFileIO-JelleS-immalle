@@ -45,16 +45,16 @@ i.v.m. duidelijkheid/geschiedenis van de code:
 
 - Lukken de testen in de commit 3ffe2c86? Waarom (niet)?
 
->
+> Nee, er ontbreekt een bestand.
 
 - Wat lost commit d0320b6a op?
 
->
+> Het verbeterd de opmaak van AreEqual.
 
 - Wat is het probleem met de files in commit 9d184949?
 
->
+> Er ontbreekt blijkbaar nog steeds een essentieel bestand.
 
 - Wat doet commit 9b3e4065? Maakt dit de code makkelijker leesbaar? Makkelijker uitbreidbaar?
 
->
+> Ja, ik vind van wel. Nu staat er meer uitleg bij over wat alles doet en betekent.
